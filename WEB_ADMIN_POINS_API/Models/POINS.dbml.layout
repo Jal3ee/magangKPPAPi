@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 13.125, 8.5" name="POINS">
+  <DataContextMoniker Name="/POINSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="16706a3e-fccf-4dc1-9a19-f693feb37de3" isExpanded="false" absoluteBounds="10.875, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/POINSDataContext/VW_KARYAWAN_ALL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc0fa509-f900-4676-933d-251dcce01a69" absoluteBounds="10.89, 0.96, 1.9700000000000002, 14.6719970703125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6b855d39-8650-400f-95f9-bd3ea4aea6a4" isExpanded="false" absoluteBounds="8.875, 1, 2, 0.45">
+      <DataClassMoniker Name="/POINSDataContext/VW_JETTY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c07dd776-0d06-4f01-a50f-bc221e3249e9" absoluteBounds="8.89, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="abe35523-ca61-429e-8977-776546f39108" isExpanded="false" absoluteBounds="10.875, 1, 2, 0.45">
+      <DataClassMoniker Name="/POINSDataContext/VW_USER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19480d6e-f644-4ef6-9584-60c21edd458b" absoluteBounds="10.89, 1.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3a830527-49da-44ba-9a83-f795f6097ceb" isExpanded="false" absoluteBounds="1.875, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/POINSDataContext/TBL_M_MENU_DASHBOARD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="437442fb-4e9b-40d6-b0b3-d3845598644f" absoluteBounds="1.8899999999999997, 2.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eb4482c0-0b75-4dc1-be92-c0aa1b639815" isExpanded="false" absoluteBounds="8.75, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/POINSDataContext/VW_BARGING_ONLINE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c06313d-d7d3-4fa0-b6f5-520dbe5be31c" absoluteBounds="8.765, 0.96, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3ea5d3d5-6e27-4a1c-b8aa-e07824a27d66" absoluteBounds="0.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/POINSDataContext/VW_BARGE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f09e7212-7c38-4eee-8707-b64611acc372" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="85fbb38d-9fa7-4d29-9d6e-a3171ca590f4" absoluteBounds="3.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/POINSDataContext/VW_TUGBOAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33f36895-7c13-46c5-9a34-2afa73b7b510" absoluteBounds="3.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

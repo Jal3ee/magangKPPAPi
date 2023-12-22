@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Beltpro">
+  <DataContextMoniker Name="/BeltproDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6dd42f44-3fad-4576-8f47-d3c9c8a16dd6" absoluteBounds="1, 1.625, 2, 4.8477197265625">
+      <DataClassMoniker Name="/BeltproDataContext/ClientTran" />
+      <nestedChildShapes>
+        <elementListCompartment Id="457d96a6-99a3-41ae-a265-3ff8a55b16ed" absoluteBounds="1.0150000000000001, 2.085, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

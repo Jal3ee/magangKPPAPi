@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB_BELTPRO_SPUT_REPL" Class="BeltproDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.ClientTrans" Member="ClientTrans">
+    <Type Name="ClientTran">
+      <Column Name="ClientTransId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NodeId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TransNo" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="NodeTrans" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="EndDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="StartWeight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="EndWeight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Kode" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Weight" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="WeightPlan" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="TPH" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Shift" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="CompanyName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BargeName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="BoatName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Remarks" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="WarningStatus" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Operator" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="flagSync" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="rowguid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
